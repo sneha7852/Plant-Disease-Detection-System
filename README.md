@@ -17,7 +17,8 @@ Languages: Python
 Additional Libraries: OpenCV for image processing, NumPy, Pandas for data handling
 Environment: Jupyter Notebook for development and model experimentation
 
-How It Works
+How It Works:
+
 The Plant Disease Detection System is a machine learning-based tool that identifies common diseases affecting paddy crops. It combines image processing with deep learning to provide precise and automated disease detection. Here’s a breakdown of the workflow:
 
 1. Data Collection and Preprocessing
@@ -33,4 +34,5 @@ Evaluation Metrics: Accuracy, precision, recall, and F1-score metrics are calcul
 4. Prediction and Deployment
 Image Input: Users can input images of paddy leaves directly into the model.
 Prediction Output: The model processes the image, identifies disease patterns, and classifies the image into one of the known disease categories or as healthy. The output includes the predicted disease type and a confidence score.
+
 Real-world Use: This tool is intended for practical agricultural applications, enabling quick, accessible, and accurate disease identification. Farmers can use it to assess crop health and intervene promptly, preventing disease spread and minimizing crop loss.
